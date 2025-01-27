@@ -29,3 +29,13 @@ project: Document_upload_assistant
 
 为解决DeepSeek平台未开放文件上传API的技术限制，开发的本地化文件处理解决方案。
 Background: Localized file processing solution addressing DeepSeek's lack of file upload API.
+
+
+▎Deepseek_r1_deploy
+
+project: deepseek_r1_deploy
+
+项目描述:快速使用魔搭社区部署deepseek蒸馏模型，服务器本地都可以运行，包含前端界面
+Quickly deploy Deepseek distillation model using the Magic Community, which can run locally on the server and includes a front-end interface
+
+
