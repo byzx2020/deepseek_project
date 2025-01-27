@@ -3,7 +3,7 @@
 ```bash
 # 第一步：安装依赖
 # Step 1: Install dependencies
-pip install -r requirement.txt
+pip install -r requirements.txt
 
 ▎WeChat Assistant Project
 
